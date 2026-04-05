@@ -1,0 +1,11 @@
+case,D,H,K,L,C,DEP,CVD,class,note
+1,1,1,0,0,0,1,0,C1,All conditions defined
+2,1,0,1,0,0,0,1,C1,All conditions defined
+3,1,1,-1,0,0,1,0,C2,K=-1 (eGFR not assessed)
+4,0,1,0,1,0,1,0,C1,All conditions defined
+5,1,1,0,0,0,0,0,C1,All conditions defined
+6,1,0,0,0,0,-1,0,C3,DEP=-1 (PHQ-9 not administered; future DEP outcome unknown)
+7,1,1,1,0,0,1,1,C1,All conditions defined
+8,0,0,0,0,0,0,0,C1,All conditions defined
+9,1,-1,0,0,0,1,0,C2,H=-1 (BP measurement not taken)
+10,0,1,0,1,0,0,0,C1,All conditions defined

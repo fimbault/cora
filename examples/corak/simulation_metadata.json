@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-04-05T13:13:22.519925",
+  "ground_truth": "DEP = D\u00b7H  (D=1 and H=1 are jointly sufficient)",
+  "n_cases": 40,
+  "n_simulations": 500,
+  "undef_rates": [
+    0.0,
+    0.05,
+    0.1,
+    0.2,
+    0.3
+  ],
+  "seed": 2024,
+  "corak_version": "0.1.0",
+  "python_version": "3.12.3"
+}
